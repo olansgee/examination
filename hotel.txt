@@ -1,0 +1,7 @@
+5	Albana International	Albana
+3	Bostanese Inn	Albana
+4	Albana International	Albana
+4	Albana International	Albana
+5	Albana International	Hamadan
+4	Albana International	Hamadan
+3	Albana International	Hamadan
