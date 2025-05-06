@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Login</title>
+	<?php require_once("header.php") ?>
+	<script type="text/javascript">
+            function login()
+            {
+                var str1 = document.getElementById('username').value.toString();
+                var str2 = document.getElementById('password').value.toString();
+                if(str1.length<=0 || str2.length<=0)
+                {
+                    alert("Please provide values for both fields.") ;
+                    return false;
+                }
+                return true;
+            }
+        </script>
+</head>
+<body>
+	<?php require_once("../mysqli_connect.php") ?>
+	<div class="container" style="width:40%">
+		<h3>Admin Login Page</h3><br>                
+			<?php 
+			 echo "<center><font color='red'>Invalid username or password or both. Try Again</font>  </center>";
+			?>
+			<form action="admin_validate.php" onsubmit="login()">
+			    <div class="form-group">
+			      <label for="username">Username:</label>
+			      <input type="text" class="form-control" id="username" placeholder="Enter username" name="username">
+			    </div>
+
+			    <div class="form-group">
+			      <label for="Password">Password:</label>
+			      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd">
+			    </div>
+
+			     <input type="submit" value="Login" class="btn btn-primary" >
+			  
+			</form>
+	</div>
+
+
+</body>
+</html>

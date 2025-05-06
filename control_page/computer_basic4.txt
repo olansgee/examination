@@ -1,0 +1,66 @@
+("_______ is a block based visual programming language that allows students to create interactive stories, games and animators.", "Information",   "Scratch",   "Sprites",  "b"),
+
+("A _______ is a piece of code which is capable of copying itself and typically has a detrimental effect such as corrupting the system or destroying data.", "Virus ", " Scratch", "MS Powerpoint",  "a"),
+
+("_______ sends data and programs it into the computer for processing", "Monitor",  "Keyboard",   "USB",  "b"),
+
+("________ refers to an operation that is completed when the entire set of input has been processed.", "Font",   "Scanner",   "Formatting",  "c"),
+
+("These are examples of viruses except?", "Alex virus",  "Data lock virus",  "knock knock virus", "c"),
+
+("________ stores electricity power in batteries and it supplies the electrical power to the computer during power failure is called",
+"DVD",   "RAM",   "UPS",  "c"),
+
+("A ______ is the engine and head of the computer system",
+"Keyboard",   "System unit",   "Monitor", "b"),
+
+("________ brings about graphics image, pictures, colour, creates slide show and animations", "Ms Word" ,  "Ms Excel" , "Ms Power point", "c"),
+
+("Anti-virus can be used to detect presence of a virus in a computer" , "True",    "False",  "None of the above",  "a"),
+
+
+("_______ and ________ are examples of anti virus", "Motion and notion" ,  "Panda and Scanning anti virus",  "ball and socket anti virus", "a"),
+
+("Computer virus can be detected by two ways:", "Genetic checker and virus scanner", "Screen checker",   "Magic bullet", "a"),
+
+("Ms power point is a product of ms office suite.", "True",  "False",  "All of the above", "a"),
+
+("To save a document", "Click on file, Click on save As, Enter your name, click ok",  "click on file only",   "click F5",  "a"),
+
+("Scratch 3.0 involves","Looking",   "open the program, follow the steps",    "designing of cars, and numbers",  "b"),
+
+("________ is an external storage device where data and programs are stored permanently.", "Disk",   "Floppy disk ",  "CD", "c"),
+
+("The meaning of CD-ROM is called", "Company disk, ready off main",   "Compact Disk Read Only Memory",   "I don’t know",  "b"),
+
+("_________   is a set of instruction given to the computer system, Computer programming languages,  programming,    Translation, Coding is a set of instructions", "True ", "False",   "None of the above",  "a"),
+
+("Computer can be classified into ________ different ways",
+"1",  "2",   "3",  "c"),
+
+("_________ is the process of preparing a diskette for usage",
+"Format",   "Driver",   "Windows", "a"),
+
+("_________ can also be also be called the changing the look of a text.",
+"Disk",   "Formatting",   "Font",  "b"),
+
+("The process of starting or restarting a computer is termed",
+"Booting ",  "Loading",   "Starting", "a"),
+
+("The following are prevention of computer virus except?","We should create backup to the software",   "Install Antivirus program in your system ",  "clean the computer with computer brush", "c"),
+
+("________ and _________ are used in the olden days to calculate figures.", "Computer and sticks",  "Goat and hands",   "Toes and sticks",  "c"),
+
+("Electronic calculator is used for calculating, such as: addition and subtraction", "True ", "False",  "I don’t know","a"),
+
+("__________ can also be used to detect presence of a virus in computer system.", "Virus",   "Software",   "Antivirus",  "c"),
+
+("Our forefathers used ________ and _________ in the olden days to calculate fingers.", "Book and pencil",   "Table and pen",   "Stones and fingers",  "c"),
+
+("_________ carries out the processing of data in the system","Monitor",  "System unit ",  "Keyboard",  "b"),
+
+("There are computer attacked that stop the computer from performing its functions", "Dust",   "Dirt",   "Virus",  "c"),
+
+("________  is used to control the flow of electricity",
+"Stabilizer",    "Fan",   "Cover",  "a")
+
